@@ -11,3 +11,13 @@ max-height: 3000px;}
 .hading-p{width: 505px; height: 60.9px; font-weight: 600; font-size: 16px;}
 .button-p{width: 196px; height: 44px; background-color: #E02C6D; border-radius: 41PX; color: #FFFF;}
 .hading{width: 582PX; height: 270PX; margin: 145PX 133PX 170PX 120PX;}
+.img-progsion{position:absolute;}
+.i2{top: 800px; left: -10px;}
+.display-flex{display: flex;}
+.reletib{position: absolute;}
+.i1{left: 820px;}
+.i2{left: 800px;}
+.i2{top: 1px;}
+.i1{top: 10px;}
+.button-p{top: 330px;}
+.i1{z-index: 1;}
