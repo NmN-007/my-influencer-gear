@@ -146,6 +146,30 @@ body {
    text-align: center;
    margin: 50px 0px;
 }
+.fa-soli{margin-left:  10px; color: #ffff;}
+.fa-solid1{margin-left:  10px; color: hsl(343, 98%, 58%);}
+.button-p1{ width: 196px;
+   height: 44px;
+   color:#E02C6D; margin: 0px 900px; background-color: #FFFF; border: 0ex;}
+
+   .Featured{font-weight: 700; font-size: 2.1rem;}
+   .Amet{font-weight: 700; font-size: 1rem;}
+.imgfoot{margin-right: 90px;margin-left: 130px; width: 501px; height: 288px;}
+.button-p2{width: 196px;
+   height: 44px;
+   background-color: #E02C6D;
+   border: 0em;
+   color: #FFFF;}
+   .icon >.fa-brands{margin: 0px 10px;}
+
+
+   .foot{max-width: 1300px;background-color: rgb(3, 3, 37); color: #ffff; text-align: center;}
+h4{margin: 10px;}
+
+
+
+
+
 
 
 
